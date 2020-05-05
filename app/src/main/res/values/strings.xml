@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceProject</string>
+
+    <string name="check_for_number">+918910037116</string>
+    <string name="send_sms_to_contact">+919871770236</string>
+    <string name="send_message">"Missed call from "</string>
+</resources>
